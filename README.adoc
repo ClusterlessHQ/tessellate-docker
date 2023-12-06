@@ -1,0 +1,8 @@
+= Tessellate Docker Images
+
+image:https://dockeri.co/image/clusterless/tessellate[link="https://hub.docker.com/r/clusterless/tessellate"]
+
+Wraps the link:https://docs.clusterless.io/tessellate/1.0-wip/[Tessellate CLI] with an Ubuntu based Docker image:
+link:https://hub.docker.com/r/clusterless/tessellate[clusterless/tessellate].
+
+This image may be used to run Tessellate without having a pre-installed Java runtime on your system.
